@@ -1,0 +1,8 @@
+#deny
+*
+
+#allow
+!.gitignore
+!*.pde
+!/data
+!/data/*
